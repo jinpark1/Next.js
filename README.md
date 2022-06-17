@@ -6,7 +6,7 @@
 4. type: yarn dev (then enter).
 5. Access the site on http://localhost:3000
 
-# Welcome! React-TS is a web application that allows you to view Projects in a data table.
+## Welcome! React-TS is a web application that allows you to view Projects in a data table.
 
 * Built using Next.js with TypeScript.
 * Material UI component library is used for styling components and pages.
