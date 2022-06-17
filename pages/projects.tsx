@@ -63,8 +63,6 @@ export default function Projects(initialData: { projects: Project[] }) {
     } else {
       setShowSearchResults(false);
     }
-
-    console.log(searchResults);
   }
 
   return(
