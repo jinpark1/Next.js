@@ -1,10 +1,10 @@
 ## REACT-TS
-## To Start the App please follow the steps below.
-## 1. Open cmd (command prompt).
-## 2. While inside the project directory.
-## 3. type: yarn install (then enter). This will download/install packages.
-## 4. type: yarn dev (then enter).
-## 5. Access the site on http://localhost:3000
+# To Start the App please follow the steps below.
+1. Open cmd (command prompt).
+2. While inside the project directory.
+3. type: yarn install (then enter). This will download/install packages.
+4. type: yarn dev (then enter).
+5. Access the site on http://localhost:3000
 
 Welcome! React-TS is a web application that allows you to view Projects in a data table.
 
