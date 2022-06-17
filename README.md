@@ -1,5 +1,5 @@
 ## REACT-TS
-# To Start the App please follow the steps below.
+## To Start the App please follow the steps below.
 1. Open cmd (command prompt).
 2. While inside the project directory.
 3. type: yarn install (then enter). This will download/install packages.
